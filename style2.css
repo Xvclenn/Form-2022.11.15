@@ -1,0 +1,28 @@
+.pink {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.pink p {
+    color: white;
+    padding: 15px;
+    background-color: rgb(233, 42, 106);
+}
+
+.box  {
+    width: 500px;
+    padding: 20px;
+    border: dashed 2.5px palevioletred;
+    background-color: rgba(179, 210, 229, 0.25);
+}
+
+.box div {
+    text-align: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
